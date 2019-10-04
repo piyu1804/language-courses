@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Salesforce App 32
+=======
+# Salesforce App 1234
+>>>>>>> 51282c87f7450667d5ecc83020c11c5550009b3f
 
 This guide helps Salesforce developers who are new to Visual Studio Code go from zero to a deployed app using Salesforce Extensions for VS Code and Salesforce CLI.
 
